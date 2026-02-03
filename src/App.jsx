@@ -11,7 +11,7 @@ import Solutions from "./components/Solutions/Solutions";
 import About from "./components/AboutUs/About";
 import Platform from "./components/Platform/Platform";
 
-
+// kkkllklk
 const App = () => {
   return (
     <BrowserRouter>
