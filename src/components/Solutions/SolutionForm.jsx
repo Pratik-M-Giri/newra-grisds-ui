@@ -43,7 +43,7 @@ const SolutionForm = () => {
         style={{ 
           width: '80vw', // 100% Viewport Width - Ekdum edge to edge
           height: '800px',
-          borderRadius: '0px', // Border radius removed
+          // borderRadius: '0px', // Border radius removed
           backgroundImage: `url(${turbineBg})`,
           backgroundSize: 'cover', // Cover se width poori fill hogi
           backgroundRepeat: 'no-repeat',
